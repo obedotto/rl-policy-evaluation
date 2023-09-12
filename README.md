@@ -1,17 +1,17 @@
 # POLICY EVALUATION
 
-# AIM
+## AIM
 Write the experiment AIM.
 
-# PROBLEM STATEMENT
+## PROBLEM STATEMENT
 Explain the problem statement.
 
-# POLICY EVALUATION FUNCTION
+## POLICY EVALUATION FUNCTION
 Include the policy evaluation function
 
-# OUTPUT:
+## OUTPUT:
 Mention the first and second policies along with its state value function and compare them
 
-# RESULT:
+## RESULT:
 
 Write your result here
